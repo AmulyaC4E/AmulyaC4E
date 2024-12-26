@@ -1,4 +1,4 @@
-import 'package:BNB_New_UI/widget/Appbar.dart' as custom_widgets;
+import 'package:BNB_New_UI/Widget/HomePageWidgets.dart' as custom_widgets;
 import 'package:flutter/material.dart';
 import 'package:BNB_New_UI/constants.dart';
 

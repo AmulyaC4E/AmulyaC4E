@@ -1,4 +1,4 @@
-import 'package:BNB_New_UI/screen/homescreen.dart';
+import 'package:BNB_New_UI/Screen/homescreen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
